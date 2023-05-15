@@ -57,10 +57,5 @@ VALUES
     (10, 25),
     (10, 29),
     (10, 24);
-
     
-
     SELECT*FROM playlist_track;
-
-
-DELETE FROM playlist_track;
